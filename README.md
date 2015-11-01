@@ -1,27 +1,49 @@
 # MVP Factory
 
-:dizzy_face: :arrow_forward: :factory: :arrow_forward: :sparkles: :sunglasses: :sparkles:
-
 ## Definition
 
-MVP (*M*inimum *V*iable *P*roduct) Factory would be a bimonthly event, the twice per month kind, where participants would work and aim to complete a nugget in teams or by themselves once per month within a theme. The themes would be language agnostic. The culture should be as inclusive and welcoming as any Code & Coffee social event. However, the events would be primarily for working on an MVP. It would not be a competition as participants would be encouraged to help each other.
+MVP (*M*inimum *V*iable *P*roduct) Factory is a bimonthly event where participants attempt to complete a nugget in teams or by themselves by the end of every month. The themes are language agnostic. The culture is as inclusive and welcoming as any Code & Coffee social event.
 
-## Planned Events
+## Event Breakdown
 
-### Theme Introduction
+### A Typical Month
 
-The first event of the month would begin with an introduction to the theme. Having a theme specialist present it would be fantastic. Learning resources, an entry point, project examples and brief explanations of challenging areas would be given. Afterwards, participants would be encouraged to spend only a short amount of time on their idea as it is not the focal point of the event. The goal is to encourage everyone to repeatedly try all sorts new projects.
+#### First Event: The Theme
 
-### Work Continues
+The first event of the month begins with a introduction to a theme. When presenting, please do:
 
-The second event would be a continuation of the first. With the theme having already been introduced, participants would simply work on their MVP.
+- Keep it short (Maximum of 10 minutes)
+- Offer learning resources
+- Provide sample ideas
+- Briefly explain possible challenges
 
-### Demo Day
+For example themes, please [visit](THEME_LIST.md).
 
-Every 3 or 4 months, a demo event would be planned. Interested participants would demo their MVPs in a 5-10 minute talk. This event could be catered with the help of sponsors. It could begin with a 30 minute social, then move on to the talks and end with a bit more socializing.
+Afterwards, have everyone stand up and introduce themselves. Devs should:
 
-### Yearly Hackathon
+- Say their name
+- Mention their skills (e.g. programming languages)
+- Offer their idea (if they have one at this point)
 
-:exclamation: :exclamation: :question: :question: :question: :anger:
+Finally, everyone works on their project until the event ends. Cooperation should be encouraged. MVP Factory is not a competition.
 
-## Idea List
+#### Last Event: The Grind
+
+The second event would be a continuation of the first. Devs continue working on their MVP.
+
+### A Typical Year
+
+#### Demo Day
+
+Every 3 or 4 months, devs that have made enough progress on their projects can do a short presentation (5-10 minutes) of their work.
+
+Things to do for this event:
+
+- Sponsored catering
+- Reserved an 1 and a half for talks
+- Reserve time for socializing
+- Announce it only when there are enough speakers
+
+#### Hackaton
+
+Once a year, organize a hackathon.
