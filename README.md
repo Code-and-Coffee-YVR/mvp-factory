@@ -2,7 +2,7 @@
 
 ## Definition
 
-MVP (*M*inimum *V*iable *P*roduct) Factory is a bimonthly event where participants attempt to complete a nugget in teams or by themselves by the end of every month. The themes are language agnostic. The culture is as inclusive and welcoming as any Code & Coffee social event.
+MVP (**M**inimum **V**iable **P**roduct) Factory is a bimonthly event where participants attempt to complete a nugget in teams or by themselves by the end of every month. The themes are language agnostic. The culture is as inclusive and welcoming as any Code & Coffee social event.
 
 ## Event Breakdown
 
