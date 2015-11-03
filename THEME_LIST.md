@@ -1,4 +1,4 @@
-# List of Ideas
+# List of Themes
 
 - Create a Chat Bot ([Slack](https://slack.com/), [Mattermost](http://www.mattermost.org/), [IRC](https://wiki.mozilla.org/IRC))
   - Memecaptain command
